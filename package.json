@@ -1,12 +1,12 @@
 {
-  "name": "queen_anju",
+  "name": "queen_nima",
   "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By Rajindu Nimsara",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Nima",
+    "stop": "pm2 stop Queen_Nima",
+    "restart": "pm2 restart Queen_Nima"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
